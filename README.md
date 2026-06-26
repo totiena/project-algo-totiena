@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="README.md"
+        <link rel="stylesheet"
             href="st.css"/>
     </head>
     <body>
