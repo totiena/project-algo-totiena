@@ -1,7 +1,6 @@
 <html>
     <head>
-        <title></title>
-        <link rel="readme"
+        <link rel="README.md"
             href="st.css"/>
     </head>
     <body>
